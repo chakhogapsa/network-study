@@ -17,7 +17,12 @@
 토론하고 싶은 내용이 있거나 질문이 생기면 `질문`라벨을 붙여서 이슈에 등록합니다.
 
 ## Branch
-새로운 책이나 강의를 시작하면 `Book/{책 이름}`, `Lecture/{강의 이름}`으로 Branch를 만들고 기록합니다.
+새로운 책이나 강의를 시작하면 `Book/{책 이름}/{깃허브 아이디}`, `Lecture/{강의 이름}/{깃허브 아이디}`으로 Branch를 만들고 기록합니다.
+
+n회독을 하거나 혹은 수정이 필요한 경우 뒤에 `/{n회독 수}`를 붙입니다.
+
+(ex. Book/King-Of-Networking/DahyeonWoo, Book/King-Of-Networking/DahyeonWoo/2)
+
 
 Origin Repository에서 Branch를 만드는 것과 Fork를 해서 개인 Repository에서 Branch를 만드는 것 중 하나를 택해서 진행합니다.
 
@@ -39,8 +44,10 @@ Origin Repository에서 Branch를 만드는 것과 Fork를 해서 개인 Reposit
 ### 다 읽은 책
 
 ### 읽고 있는 책
+* [후니의 쉽게 쓴 시스코 네트워킹](http://www.yes24.com/Product/Goods/89520426)
 
 ### 앞으로 읽을 책
+* [킹 오브 네트워킹](http://www.yes24.com/Product/Goods/58259041)
 
 ## 진행상황 - 강의
 
@@ -49,3 +56,4 @@ Origin Repository에서 Branch를 만드는 것과 Fork를 해서 개인 Reposit
 ### 듣고 있는 강의
 
 ### 앞으로 들을 강의
+* [따라하며 배우는 IT - 네트워크 기초](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=1)
